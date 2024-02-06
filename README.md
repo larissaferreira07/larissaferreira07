@@ -18,3 +18,6 @@ But, I am familiar with various technologies, among them:
 - HTML
 - CSS
 
+<br>
+
+> I'm open to open-source collaborations and challenging projects.
