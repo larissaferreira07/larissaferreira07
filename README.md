@@ -4,7 +4,7 @@
 Hello World 👋
 ```
 
-**Systems Development Technician** by Colégio Pedro II. Currently studying **Computer Science**.
+**Technician in Systems Analysis and Development** by Colégio Pedro II. Currently studying **Computer Science**.
 
 **Intern** at UFRJ.
 
