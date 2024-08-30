@@ -8,11 +8,12 @@ Hello World 👋
 
 **Intern** at UFRJ.
 
-I have been working as a programmer for 4 years, currently I work with JS, using svelte to update projects and replicate dynamic interfaces.
+Currentely, I have been working as a web development intern for 1 yea.
 
-But, I am familiar with various technologies, among them:
+I am familiar with various technologies, among them:
 
 - SQL, specifically Mysql and Postgresql
+- JavaScript/Svelte
 - PHP/Laravel and Python for data
 - Bootstrap
 - HTML
