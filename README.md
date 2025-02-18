@@ -10,8 +10,9 @@ I am familiar with various technologies, among them:
 
 - SQL, specifically Mysql and Postgresql
 - JavaScript/Svelte
-- PHP/Laravel and Python for data
+- PHP/Laravel
 - Bootstrap
+- Tailwind CSS
 - HTML
 - CSS
 
